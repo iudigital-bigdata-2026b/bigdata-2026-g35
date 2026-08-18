@@ -1,4 +1,4 @@
-# Big Data (ISD-25) — Grupo NN
+# Big Data (ISD-25) — Grupo 35
 
 **IU Digital de Antioquia** · Ingeniería de Software y Datos · Semestre V · 2026-2
 
@@ -7,10 +7,8 @@
 ## Integrantes
 
 | Nombre | Correo institucional | Usuario de GitHub |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+|Paula Andrea Celis Cano| paula.celis@est.iudigital.edu.co|Paula-Celis|
+
 
 ## Caso de estudio
 
