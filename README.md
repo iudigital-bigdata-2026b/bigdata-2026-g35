@@ -1,4 +1,4 @@
-# Big Data (ISD-25) — Grupo 35
+# Big Data (ISD-25) — Grupo 38
 
 **IU Digital de Antioquia** · Ingeniería de Software y Datos · Semestre V · 2026-2
 
