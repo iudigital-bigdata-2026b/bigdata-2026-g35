@@ -11,16 +11,27 @@
 
 
 ## Caso de estudio
+Plataforma de reservas de alojamientos 
 
-*(Wanderbricks u otro. Si es otro, indicar la fuente y cómo se obtuvo.)*
+El caso de estudio es Wanderbricks, una plataforma simulada para reservar 
+alojamientos,este sistema guarda información sobre usuarios, anfitriones,
+propiedades, destinos, reservas, pagos y reseñas.Tambien registra las 
+actividades de navegación mediante eventos de clickstream, visitas a páginas
+y registros de soporte.Estos datos permiten analizar el comportamiento de los
+usuarios, la demanda de las propiedades, los ingresos generados por las
+reservas y conocer la satisfacción de los huéspedes.
+Para este proyecto se utilizará una arquitectura Lakehouse, que permite 
+almacenar y organizar diferentes tipos de datos. Se trabajará con las capas 
+Bronze y Silver para preparar y transformar los datos, y con Delta Lake para 
+realizar consultas y analisis. 
+La fuente de datos es el dataset simulado samples.wanderbricks, 
+proporcionado por Databricks.
 
----
-
-## Evidencias
+## Evidencias 
 
 | Evidencia | Carpeta | Entrega | Estado | Video |
 |---|---|---|---|---|
-| EA1 — Base de datos analítica | [`/ea1`](./ea1) | 23 de agosto | ⬜ | |
+| EA1 — /ea1/EA1_Wanderbricks.ipynb | [`/ea1`](./ea1) | 23 de agosto | ⬜ | |
 | EA2 — Infraestructura y gobierno | [`/ea2`](./ea2) | 6 de septiembre | ⬜ | |
 | EA3 — Procesamiento distribuido | [`/ea3`](./ea3) | 20 de septiembre | ⬜ | |
 | EA4 — Proyecto integrador | [`/ea4`](./ea4) | 27 de septiembre | ⬜ | |
@@ -59,3 +70,4 @@
 4. Hacer un commit de prueba desde cada cuenta y verificar que el autor aparezca bien.
 
 Ver [`docs/GUIA_ENTREGA.md`](./docs/GUIA_ENTREGA.md) para el detalle.
+
